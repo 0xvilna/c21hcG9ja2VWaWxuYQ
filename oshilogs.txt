@@ -12,58 +12,66 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Vilna =====
-[1]Vilna       |07:07:10 | 18-10-2026| login OK @vilnaanggraini | score=1390 rank=4768
-[1]Vilna       |07:07:10 | 18-10-2026| serverTime=2026-10-18T07:07:10.000Z local=2026-10-18T07:07:10.466Z
+[1]Vilna       |07:32:49 | 19-10-2026| login OK @vilnaanggraini | score=1450 rank=4698
+[1]Vilna       |07:32:49 | 19-10-2026| serverTime=2026-10-19T07:32:48.000Z local=2026-10-19T07:32:49.087Z
 --> [1]Vilna menjalankan: Claim Daily
-[1]Vilna       |07:07:11 | 18-10-2026| daily: OK +10 poin score=1400
---> [1]Vilna menjalankan: Auto All Tasks (5 pending)
-[1]Vilna       |07:07:13 | 18-10-2026| [1/5] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/vilnaanggraini/status/2111715136804584704
-[1]Vilna       |07:07:13 | 18-10-2026| delay 10s...
-[1]Vilna       |07:07:26 | 18-10-2026| [2/5] 9dd2f7fc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/vilnaanggraini/status/2111715141866667076
-[1]Vilna       |07:07:26 | 18-10-2026| delay 10s...
-[1]Vilna       |07:07:38 | 18-10-2026| [3/5] 9d42b298 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/vilnaanggraini/status/2111715199759474749
-[1]Vilna       |07:07:38 | 18-10-2026| delay 10s...
-[1]Vilna       |07:07:50 | 18-10-2026| [4/5] 43631d01 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569
-[1]Vilna       |07:07:50 | 18-10-2026| delay 10s...
-[1]Vilna       |07:08:02 | 18-10-2026| [5/5] 9a5c9c72 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/vilnaanggraini/status/2111715481162221855
-[1]Vilna       |07:08:02 | 18-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Vilna       |07:08:03 | 18-10-2026| [1/1] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2111455073125699 | proof=https://x.com/vilnaanggraini/status/2111715346045657500
+[1]Vilna       |07:32:50 | 19-10-2026| daily: OK +10 poin score=1460
+--> [1]Vilna menjalankan: Auto All Tasks (9 pending)
+[1]Vilna       |07:32:54 | 19-10-2026| [1/9] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/vilnaanggraini/status/2112083962168546231
+[1]Vilna       |07:32:54 | 19-10-2026| delay 10s...
+[1]Vilna       |07:33:07 | 19-10-2026| [2/9] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/vilnaanggraini/status/2112084209860720856
+[1]Vilna       |07:33:07 | 19-10-2026| delay 10s...
+[1]Vilna       |07:33:20 | 19-10-2026| [3/9] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/vilnaanggraini/status/2112084296963701339
+[1]Vilna       |07:33:20 | 19-10-2026| delay 10s...
+[1]Vilna       |07:33:33 | 19-10-2026| [4/9] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/vilnaanggraini/status/2112084116975645384
+[1]Vilna       |07:33:33 | 19-10-2026| delay 10s...
+[1]Vilna       |07:33:46 | 19-10-2026| [5/9] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/vilnaanggraini/status/2112084235876848813
+[1]Vilna       |07:33:46 | 19-10-2026| delay 10s...
+[1]Vilna       |07:33:59 | 19-10-2026| [6/9] c4a0bafb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/vilnaanggraini/status/2112084539424347791
+[1]Vilna       |07:33:59 | 19-10-2026| delay 10s...
+[1]Vilna       |07:34:12 | 19-10-2026| [7/9] de7bf305 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/vilnaanggraini/status/2112084547024533119
+[1]Vilna       |07:34:12 | 19-10-2026| delay 10s...
+[1]Vilna       |07:34:26 | 19-10-2026| [8/9] f2efc21b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/vilnaanggraini/status/2112084552006560753
+[1]Vilna       |07:34:26 | 19-10-2026| delay 10s...
+[1]Vilna       |07:34:39 | 19-10-2026| [9/9] c821602a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/vilnaanggraini/status/2112084702904422630
+[1]Vilna       |07:34:39 | 19-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Vilna       |07:34:41 | 19-10-2026| [1/1] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112078849190269 | proof=https://x.com/vilnaanggraini/status/2112084697186246541
 --> [1]Vilna menjalankan: Watch Anime
-[1]Vilna       |07:08:04 | 18-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Vilna       |07:08:04 | 18-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Vilna       |07:34:42 | 19-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Vilna       |07:34:42 | 19-10-2026| watch [1/4] farming oshi-captains-hat...
   video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Vilna       |07:08:07 | 18-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Vilna       |07:08:12 | 18-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Vilna       |07:08:14 | 18-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Vilna       |07:08:19 | 18-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Vilna       |07:08:21 | 18-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Vilna       |07:08:26 | 18-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Vilna       |07:08:27 | 18-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Vilna       |07:34:44 | 19-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Vilna       |07:34:49 | 19-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Vilna       |07:34:52 | 19-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Vilna       |07:34:57 | 19-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Vilna       |07:34:59 | 19-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Vilna       |07:35:04 | 19-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Vilna       |07:35:06 | 19-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Vilna menjalankan: Read Article
-[1]Vilna       |07:08:30 | 18-10-2026| news: 27/27 artikel selesai dibaca
-[1]Vilna       |07:08:31 | 18-10-2026| mint eligibility: {"userId":"1874873038807953408","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@vilnaanggraini","status":"submitted","revision":"6fd1a495-92bf-4214-a433-c48395d
-[1]Vilna       |07:08:31 | 18-10-2026| news: semua artikel sudah dibaca
+[1]Vilna       |07:35:08 | 19-10-2026| news: 27/27 artikel selesai dibaca
+[1]Vilna       |07:35:09 | 19-10-2026| mint eligibility: {"userId":"1874873038807953408","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@vilnaanggraini","status":"submitted","revision":"6fd1a495-92bf-4214-a433-c48395d
+[1]Vilna       |07:35:09 | 19-10-2026| news: semua artikel sudah dibaca
 --> [1]Vilna menjalankan: Quiz Anime
-[1]Vilna       |07:08:31 | 18-10-2026| quiz ep1: sudah dijawab
-[1]Vilna       |07:08:31 | 18-10-2026| quiz ep2: sudah dijawab
-[1]Vilna       |07:08:31 | 18-10-2026| quiz ep3: sudah dijawab
-[1]Vilna       |07:08:31 | 18-10-2026| quiz ep4: sudah dijawab
-[1]Vilna       |07:08:31 | 18-10-2026| quiz ep5: sudah dijawab
-[1]Vilna       |07:08:31 | 18-10-2026| quiz ep6: sudah dijawab
+[1]Vilna       |07:35:09 | 19-10-2026| quiz ep1: sudah dijawab
+[1]Vilna       |07:35:09 | 19-10-2026| quiz ep2: sudah dijawab
+[1]Vilna       |07:35:09 | 19-10-2026| quiz ep3: sudah dijawab
+[1]Vilna       |07:35:09 | 19-10-2026| quiz ep4: sudah dijawab
+[1]Vilna       |07:35:09 | 19-10-2026| quiz ep5: sudah dijawab
+[1]Vilna       |07:35:09 | 19-10-2026| quiz ep6: sudah dijawab
 --> [1]Vilna menjalankan: Music Missions (realtime, bisa lama!)
-[1]Vilna       |07:08:33 | 18-10-2026| music: kedua misi sudah tercapai, stop
-[1]Vilna       |07:08:35 | 18-10-2026| mission music-listens-10: sudah diklaim
-[1]Vilna       |07:08:35 | 18-10-2026| mission music-minutes-30: sudah diklaim
-[1]Vilna       |07:08:35 | 18-10-2026| mission anime-completed-3: sudah diklaim
+[1]Vilna       |07:35:13 | 19-10-2026| music: kedua misi sudah tercapai, stop
+[1]Vilna       |07:35:14 | 19-10-2026| mission music-listens-10: sudah diklaim
+[1]Vilna       |07:35:14 | 19-10-2026| mission music-minutes-30: sudah diklaim
+[1]Vilna       |07:35:14 | 19-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Vilna menjalankan: Claim Missions
-[1]Vilna       |07:08:36 | 18-10-2026| mission music-listens-10: sudah diklaim
-[1]Vilna       |07:08:36 | 18-10-2026| mission music-minutes-30: sudah diklaim
-[1]Vilna       |07:08:36 | 18-10-2026| mission anime-completed-3: sudah diklaim
+[1]Vilna       |07:35:15 | 19-10-2026| mission music-listens-10: sudah diklaim
+[1]Vilna       |07:35:15 | 19-10-2026| mission music-minutes-30: sudah diklaim
+[1]Vilna       |07:35:15 | 19-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Vilna menjalankan: Check Eligibility
 
 --- eligibility [1]Vilna ---
-  @vilnaanggraini | score=1390 rank=4768
-  tasks    [###################-] 74/79
+  @vilnaanggraini | score=1450 rank=4698
+  tasks    [##################--] 74/83
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -74,14 +82,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Vilna menjalankan: Read Manga
-[1]Vilna       |07:08:42 | 18-10-2026| manga: 0/13 chapter belum completed
+[1]Vilna       |07:35:19 | 19-10-2026| manga: 0/13 chapter belum completed
 --> [1]Vilna menjalankan: Get Gift
-[1]Vilna       |07:08:43 | 18-10-2026| gift: 0/4 belum diterima
+[1]Vilna       |07:35:20 | 19-10-2026| gift: 0/4 belum diterima
 --> [1]Vilna menjalankan: Setup Profile
-[1]Vilna       |07:08:43 | 18-10-2026| profile: bio="https://x.com/vilnaanggraini" fav=mony rewardAt=1791692725
-[1]Vilna       |07:08:43 | 18-10-2026| profile: bonus sudah diklaim, skip
+[1]Vilna       |07:35:21 | 19-10-2026| profile: bio="https://x.com/vilnaanggraini" fav=mony rewardAt=1791692725
+[1]Vilna       |07:35:21 | 19-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Vilna menjalankan: Bind Wallet
-[1]Vilna       |07:08:44 | 18-10-2026| wallet: sudah terikat 5U6wWvoF6D... (solana)
+[1]Vilna       |07:35:21 | 19-10-2026| wallet: sudah terikat 5U6wWvoF6D... (solana)
 
 == RINGKASAN ==
-- Vilna: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Vilna: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
